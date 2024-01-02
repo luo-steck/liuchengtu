@@ -1,0 +1,113 @@
+<mxfile host="app.diagrams.net" modified="2024-01-02T12:43:03.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.16" etag="BiAtTW4Qcz__CskLyYrL" type="github">
+  <diagram name="第 1 页" id="EHaOTCEka9bSjOAbClkP">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="现如今在照明控制系统有以下功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="375" width="256" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="451" width="24" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="C" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="451" y="83" width="25" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="451" y="167" width="25" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="E" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="452" y="250" width="24" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="F" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="452" y="334" width="24" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="G" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="451" y="417" width="26" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="H" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="451" y="500" width="25" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="I" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="454" y="584" width="19" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="J" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="452" y="667" width="23" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="K" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="451" y="751" width="25" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="远程控制" style="curved=1;startArrow=none;endArrow=block;exitX=0.5387708658768654;exitY=0.009091117165305397;entryX=0.020052353541056316;entryY=0.5060606291799834;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="调光功能" style="curved=1;startArrow=none;endArrow=block;exitX=0.5499598615672656;exitY=0.009091117165305397;entryX=0.008500251770019531;entryY=0.5181818875399503;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="定时功能" style="curved=1;startArrow=none;endArrow=block;exitX=0.5701000538099862;exitY=0.009091117165305397;entryX=0.004250259399414063;entryY=0.5000001155968868;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="自动化" style="curved=1;startArrow=none;endArrow=block;exitX=0.6170938357096672;exitY=0.009091117165305397;entryX=-0.01614554723103841;entryY=0.5121213739568536;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="温湿度监测" style="curved=1;startArrow=none;endArrow=block;exitX=0.8520627452080729;exitY=0.009091117165305397;entryX=-0.01614554723103841;entryY=0.4939396020137902;" edge="1" parent="1" source="2" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="火灾监测" style="curved=1;startArrow=none;endArrow=block;exitX=0.8520627452080729;exitY=1.0212123755252722;entryX=-0.015384380634014424;entryY=0.5060608603737571;" edge="1" parent="1" source="2" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="434" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="空气质量监测" style="curved=1;startArrow=none;endArrow=block;exitX=0.6170938357096672;exitY=1.0212123755252722;entryX=-0.008999748229980469;entryY=0.518182118733724;" edge="1" parent="1" source="2" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="web设备管理" style="curved=1;startArrow=none;endArrow=block;exitX=0.5701000538099862;exitY=1.0212123755252722;entryX=-0.011512806541041323;entryY=0.5000003467906605;" edge="1" parent="1" source="2" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="601" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="设备数据状态可视化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5499598615672656;exitY=1.0212123755252722;entryX=0.008695934129797894;entryY=0.5121216051506273;" edge="1" parent="1" source="2" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="684" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="远程访问控制" style="curved=1;startArrow=none;endArrow=block;exitX=0.5387708658768654;exitY=1.0212123755252722;entryX=0.008500251770019531;entryY=0.4939398332075639;" edge="1" parent="1" source="2" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="767" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
